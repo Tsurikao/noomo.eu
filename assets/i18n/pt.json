@@ -1,0 +1,575 @@
+{
+  "mc_eb": "Escreva-nos",
+  "mc_hint": "Abre com o assunto e a mensagem já preenchidos",
+  "mc_app": "App de email",
+  "mc_copy": "Copiar email",
+  "mc_subj": "Assunto",
+  "su_p": "Pedido de projeto: algo como {name}",
+  "bo_p": "Olá NOOMO, gostaria de um projeto semelhante a {name}. Sobre a minha empresa: ",
+  "su_y": "Novo pedido de projeto ({cat})",
+  "bo_y": "Olá NOOMO, gostaria de falar sobre um novo projeto de {cat}. Sobre a minha empresa: ",
+  "su_g": "Pedido através de noomo.dk",
+  "your_project": "O seu projeto",
+  "your_sub": "Vamos construí-lo juntos",
+  "nav_work": "Projetos",
+  "nav_services": "Serviços",
+  "pkg": "Subscrição",
+  "nav_about": "Sobre nós",
+  "nav_contact": "Contacto",
+  "nav_book": "Consulta gratuita",
+  "cursor_more": "Ver mais",
+  "hero_eb": "Estúdio digital para B2B · Europa",
+  "hero_1": "Lojas online.",
+  "hero_2": "Sites & landing pages.",
+  "hero_3": "Apps.",
+  "hero_tag": "Entregue a tempo, a preço fixo.",
+  "why1_h": "Pacotes a preço fixo",
+  "why1_t": "Sabe o custo total antes de começarmos, sem extras.",
+  "why2_h": "O seu estúdio web por subscrição",
+  "why2_t": "Uma mensalidade para atualizações e pequenas tarefas.",
+  "why3_h": "Pagamento em prestações",
+  "why3_t": "Divida o custo do projeto em 3 pagamentos mensais.",
+  "why4_h": "Lançamento em semanas, não meses",
+  "why4_t": "Prazos claros, e o seu novo site fica online depressa.",
+  "work_h": "Projetos selecionados",
+  "work_eb": "Sites online, apps e casos de estudo",
+  "live_website": "Site online",
+  "case_study": "Caso de estudo",
+  "view_proto": "Ver protótipo ↗",
+  "want_like": "Quero algo assim",
+  "live_projects": "Projetos online",
+  "svc_h": "Serviços",
+  "svc_eb": "Três serviços e uma auditoria gratuita. Âmbito fixo, preço fixo, apoio após o lançamento.",
+  "excl_vat": "+ IVA",
+  "view_details_arrow": "Ver detalhes ↗",
+  "audit_badge": "Bónus · Grátis",
+  "audit_h": "Consulta gratuita & auditoria do site",
+  "audit_t": "Uma sessão de 30 minutos com um designer sénior. Analisamos o seu site ou loja atual e entregamos uma breve auditoria escrita: melhorias rápidas de UX, velocidade e SEO, com o próximo passo recomendado e uma proposta a preço fixo.",
+  "free": "0 €",
+  "min30": "30 minutos",
+  "audit_cta": "Pedir auditoria gratuita",
+  "pkg_eb": "Preços em EUR, + IVA. Cada projeto começa com uma consulta gratuita e uma proposta a preço fixo.",
+  "most_popular": "Mais popular",
+  "sub_title": "O seu estúdio web",
+  "timeline": "Prazo",
+  "get_quote": "Pedir orçamento",
+  "sub_t": "Uma subscrição mensal para qualquer tipo de trabalho: atualizações, novas páginas e landing pages, banners e grafismo para campanhas, alterações de design, SEO, carregamento de produtos e apoio prioritário. Mínimo de 3 meses.",
+  "about_h": "Sobre a NOOMO",
+  "about_eb": "O estúdio",
+  "stat1": "Especialistas",
+  "stat2": "Anos em design digital",
+  "stat3": "Âmbito fixo, preço fixo",
+  "mission_eb": "A nossa missão",
+  "contact_h": "Vamos falar sobre o seu projeto",
+  "selected": "Selecionado",
+  "f_service": "Serviço",
+  "f_sub": "Subscrição",
+  "f_budget": "Orçamento (EUR, + IVA)",
+  "f_message": "Mensagem",
+  "sent_eb": "Pedido enviado",
+  "sent_msg": "Obrigado, respondemos no prazo de 24 horas.",
+  "send_another": "Enviar outro pedido",
+  "f_time": "Horário preferido",
+  "slot_err": "Escolha um horário, por favor.",
+  "f_topic": "Tema (opcional)",
+  "call_eb": "Chamada pedida",
+  "call_another": "Pedir outra chamada",
+  "footer_copy": "© 2026 NOOMO",
+  "close_x": "Fechar ✕",
+  "who": "Para quem é",
+  "included": "O que inclui",
+  "how": "Como funciona",
+  "addons": "Extras opcionais",
+  "related": "Projetos relacionados",
+  "popup_quote": "Pedir orçamento para este serviço",
+  "close_esc": "Fechar · Esc",
+  "like_eb": "Quero algo como",
+  "send_req": "Enviar pedido",
+  "back_work": "← Voltar aos projetos",
+  "about_body": "A NOOMO é um estúdio digital orientado pelo design, com sede em Aarhus, na Dinamarca, e equipas na Alemanha, em Portugal, em Tenerife (Espanha) e na Ucrânia. Juntamos mais de 15 anos de experiência em UI/UX e web design a um processo apoiado por IA, para que tenha design e desenvolvimento de nível sénior, mais rápido e a preço fixo. Trabalhamos com retalhistas, empresas de serviços e startups em toda a Europa.",
+  "mission": "Tornamos os produtos digitais profissionais acessíveis a empresas em crescimento: claros, rápidos e feitos para vender.",
+  "mission_acc": 5,
+  "mission2": "Sem processos de agência pesados. Sem templates vendidos como trabalho à medida. Apenas uma equipa focada que entrega.",
+  "contact_body": "Diga-nos do que precisa. A primeira consulta é gratuita e recebe uma proposta clara a preço fixo no prazo de 48 horas.",
+  "ph_msg": "Conte-nos do que precisa",
+  "ph_topic": "Sobre o que gostaria de falar?",
+  "err_pre": "Não foi possível enviar o pedido. Tente novamente ou escreva-nos para",
+  "svc_word": "Serviço",
+  "case_want": "Quer um projeto como",
+  "aria_top": "NOOMO — voltar ao topo",
+  "aria_menu": "Menu",
+  "aria_why": "Porquê a NOOMO",
+  "aria_filter": "Filtrar projetos por serviço",
+  "aria_sub": "O seu estúdio web",
+  "aria_contact_opts": "Opções de contacto",
+  "aria_remove": "Remover seleção",
+  "aria_close": "Fechar",
+  "aria_back": "Voltar aos projetos",
+  "lang_aria": "Idioma",
+  "on_request": "Preço sob consulta",
+  "cta_live": "Ver site online ↗",
+  "cta_play": "Ver no Google Play ↗",
+  "aria_view_details": " — ver detalhes",
+  "aria_open_case": "Abrir caso de estudo: ",
+  "new_tab": " (abre num novo separador)",
+  "no_fee": "Sem mensalidade",
+  "sub_fmt": "O seu estúdio web: {name}",
+  "tab_form": "Enviar pedido",
+  "tab_call": "Pedir chamada",
+  "submit": "Enviar pedido",
+  "sending": "A enviar…",
+  "call_btn": "Pedir chamada",
+  "call_msg": "Obrigado! Ligamos-lhe {day}, entre as {from} e as {to}.",
+  "like_msg": "Gostaria de algo semelhante a {name}.",
+  "f_day": "Dia preferido",
+  "day_ph": "Escolha uma data",
+  "err_day": "Escolha um dia útil (seg.–sex.).",
+  "prev_month": "Mês anterior",
+  "next_month": "Mês seguinte",
+  "cat": {
+    "web": "Sites institucionais & landing pages",
+    "ecom": "E-commerce",
+    "apps": "MVP & apps"
+  },
+  "blk": {
+    "challenge": "O desafio",
+    "solution": "O que desenhámos",
+    "thinking": "Abordagem de design",
+    "impact": "Impacto",
+    "role": "O nosso papel",
+    "note": "Processo apoiado por IA"
+  },
+  "meta": {
+    "Role": "Função",
+    "Year": "Ano",
+    "Scope": "Âmbito",
+    "Platform": "Plataforma",
+    "Status": "Estado",
+    "Client": "Cliente",
+    "Industry": "Setor",
+    "Duration": "Duração",
+    "Team": "Equipa",
+    "Location": "Localização",
+    "Type": "Tipo"
+  },
+  "store": {
+    "Visit live site": "Abrir site online",
+    "Open app on Google Play": "Abrir app no Google Play",
+    "Open interactive prototype": "Abrir protótipo interativo"
+  },
+  "sub_names": {
+    "Not included": "Sem subscrição",
+    "Basic": "Start",
+    "Growth": "Stable",
+    "Pro": "Full Web Studio"
+  },
+  "plural": [
+    "projeto",
+    "projetos"
+  ],
+  "ct": {
+    "Email": "Email",
+    "Phone": "Telefone"
+  },
+  "svcOpts": {
+    "ecom": "E-commerce",
+    "web": "Sites institucionais & landing pages",
+    "apps": "MVP & app",
+    "audit": "Consulta gratuita & auditoria",
+    "unsure": "Ainda não sei"
+  },
+  "f": {
+    "name": "Nome",
+    "name_ph": "O seu nome",
+    "name_err": "Indique o seu nome, por favor.",
+    "company": "Empresa",
+    "company_ph": "Nome da empresa",
+    "email": "Email",
+    "email_ph": "nome@empresa.pt",
+    "email_err": "Indique um email válido, por favor.",
+    "phone_opt": "Telefone (opcional)",
+    "phone": "Telefone",
+    "phone_err": "Indique um número de telefone, por favor.",
+    "email_opt": "Email (opcional)",
+    "email_err2": "Verifique o endereço de email, por favor."
+  },
+  "months": [
+    "janeiro",
+    "fevereiro",
+    "março",
+    "abril",
+    "maio",
+    "junho",
+    "julho",
+    "agosto",
+    "setembro",
+    "outubro",
+    "novembro",
+    "dezembro"
+  ],
+  "wd": [
+    "Seg",
+    "Ter",
+    "Qua",
+    "Qui",
+    "Sex",
+    "Sáb",
+    "Dom"
+  ],
+  "care": {
+    "Basic": [
+      "Até 10 horas de trabalho por mês",
+      "Pequenas alterações e melhorias",
+      "Ajustes de texto, imagem e design",
+      "Assíncrono via Slack ou email"
+    ],
+    "Growth": [
+      "Até 25 horas de trabalho por mês",
+      "Tudo do Start",
+      "Atualizações regulares",
+      "Tarefas de design e desenvolvimento",
+      "Tarefas em paralelo"
+    ],
+    "Pro": [
+      "Até 48 horas de trabalho por mês",
+      "Tudo do Stable",
+      "Trabalho nos seus outros sites",
+      "Qualquer tipo de tarefa",
+      "Apoio prioritário"
+    ]
+  },
+  "svc": {
+    "ecom": {
+      "title": "E-commerce",
+      "pkgTitle": "Loja online",
+      "desc": "Lojas online e mercearias em Shopify, com carregamento de produtos e apoio contínuo.",
+      "priceSub": "+ IVA",
+      "timeline": "4–6 semanas",
+      "who": "Retalhistas, mercearias e lojas especializadas que querem vender online ou sair de uma plataforma lenta. Ideal quando já tem o catálogo pronto e precisa de uma loja que a sua equipa consiga gerir no dia a dia.",
+      "pkgItems": [
+        "Configuração Shopify e tema personalizado",
+        "Até 50 produtos carregados",
+        "Pagamentos (cartão, Apple Pay, Google Pay)",
+        "Configuração de envios e IVA da UE",
+        "Design mobile-first",
+        "SEO básico e analytics",
+        "Sessão de formação"
+      ],
+      "includes": [
+        "Configuração Shopify e tema personalizado",
+        "Até 50 produtos carregados",
+        "Pagamentos (cartão, Apple Pay, Google Pay)",
+        "Configuração de envios e IVA da UE",
+        "Design mobile-first",
+        "SEO básico",
+        "Analytics",
+        "Sessão de formação"
+      ],
+      "steps": [
+        [
+          "Análise",
+          "Mapeamos o catálogo, pagamentos, envios e configuração do IVA."
+        ],
+        [
+          "Design",
+          "Um tema Shopify personalizado, pensado mobile-first."
+        ],
+        [
+          "Desenvolvimento",
+          "Configuração da loja, produtos, pagamentos e analytics."
+        ],
+        [
+          "Lançamento & apoio",
+          "Formação, lançamento e, se quiser, a subscrição do seu estúdio web."
+        ]
+      ],
+      "addons": [
+        "Mais 50 produtos",
+        "Loja multilíngue",
+        "Integrações (ERP, POS, contabilidade)",
+        "Fotografia de produto / visuais com IA"
+      ]
+    },
+    "web": {
+      "title": "Sites institucionais & landing pages",
+      "pkgTitle": "Site institucional & landing page",
+      "desc": "Sites de empresa, landing pages e sites de campanha que explicam o que faz e trazem contactos.",
+      "priceSub": "+ IVA · Landing page",
+      "altPre": "Site institucional ",
+      "timeline": "2–4 semanas",
+      "who": "Empresas de serviços, fornecedores B2B e equipas de marketing a lançar uma campanha ou uma nova oferta. Para empresas cujo site atual já não explica o que fazem.",
+      "pkgItems": [
+        "Estrutura UX e orientação de textos",
+        "Design personalizado",
+        "Até 6 páginas (institucional) ou 1 página longa (landing)",
+        "CMS",
+        "Formulários de contacto",
+        "Configuração de SEO",
+        "Configuração de alojamento e publicação"
+      ],
+      "steps": [
+        [
+          "Análise",
+          "Objetivos, público e as páginas de que realmente precisa."
+        ],
+        [
+          "Estrutura & design",
+          "Mapa do site, orientação de textos e um design personalizado."
+        ],
+        [
+          "Desenvolvimento",
+          "CMS, formulários e SEO, testados em todos os ecrãs."
+        ],
+        [
+          "Lançamento & apoio",
+          "Alojamento, publicação e apoio após o lançamento."
+        ]
+      ],
+      "addons": [
+        "Página extra",
+        "Copywriting",
+        "Multilíngue"
+      ]
+    },
+    "apps": {
+      "title": "Apps MVP & startups",
+      "pkgTitle": "App MVP & startup",
+      "desc": "Protótipos clicáveis e MVPs prontos a lançar para fundadores que precisam de testar, apresentar ou lançar.",
+      "priceSub": "+ IVA",
+      "timeline": "A partir de um sprint MVP de 14 dias",
+      "who": "Fundadores e equipas de inovação que precisam de testar uma ideia com utilizadores reais ou mostrar um produto funcional a investidores. Também para empresas que lançam um novo serviço digital.",
+      "pkgItems": [
+        "Workshop de discovery",
+        "User flows",
+        "Protótipo clicável",
+        "Design system de UI",
+        "Desenvolvimento front-end do MVP",
+        "Demo para investidores",
+        "Entrega ou desenvolvimento contínuo"
+      ],
+      "steps": [
+        [
+          "Workshop de discovery",
+          "O problema, os utilizadores e o menor produto que vale a pena construir."
+        ],
+        [
+          "Flows & protótipo",
+          "User flows e um protótipo clicável para testar cedo."
+        ],
+        [
+          "Design & desenvolvimento",
+          "Um design system de UI e um MVP front-end."
+        ],
+        [
+          "Demo & entrega",
+          "Uma demo pronta para investidores e, depois, entrega ou desenvolvimento contínuo."
+        ]
+      ],
+      "addons": [
+        "User flow extra",
+        "Configuração de backend / base de dados",
+        "Sprints de desenvolvimento contínuo"
+      ]
+    }
+  },
+  "boot_eb": "A carregar o estúdio",
+  "hint_scroll": "Deslize para continuar",
+  "hint_hover": "Passe o cursor para pré-visualizar",
+  "hint_click": "Clique para abrir",
+  "boot_steps": [
+    "Iniciar grelha",
+    "Carregar briefing",
+    "Mapear estrutura",
+    "Definir tipografia",
+    "Desenhar wireframes",
+    "Alinhar à grelha",
+    "Aplicar design system",
+    "Ligar interações",
+    "Executar QA",
+    "Publicar"
+  ],
+  "menu": "Menu",
+  "m_welcome": "Bem-vindo à NOOMO",
+  "m_type": "Tipo",
+  "m_focus": "Foco",
+  "m_loc": "Localização",
+  "m_loc_v": "Aarhus, Dinamarca (sede)",
+  "theme_aria": "Modo escuro",
+  "sb_ps": "Por mês · + IVA · pause ou cancele quando quiser",
+  "sb_msg": "Olá NOOMO, tenho interesse na subscrição {plan}.",
+  "sb_slots": "Tarefas em simultâneo",
+  "start_from": "Preço inicial",
+  "b2b_h": "Para empresas & agências",
+  "b2b_p": "Para empresas e agências que querem trabalhar connosco de forma contínua: escolha o Full Web Studio (290 €/mês, até 48 horas) ou acordamos condições à medida para volumes maiores.",
+  "b2b_items": [
+    "White-label para agências",
+    "Equipa dedicada ao seu produto",
+    "NDA, contrato e faturação mensal",
+    "Slack, Jira ou Linear partilhados",
+    "Design system e entrega de código",
+    "SLA prioritário e contacto fixo"
+  ],
+  "b2b_pl": "Plano recomendado",
+  "b2b_price": "Full Web Studio · 290 €/mês",
+  "b2b_ps": "Até 48 horas · ou condições à medida",
+  "b2b_cta": "Falar sobre colaboração",
+  "b2b_msg": "Olá NOOMO, somos uma empresa/agência e gostaríamos de falar sobre uma colaboração contínua.",
+  "subtiers": {
+    "start": {
+      "name": "Start",
+      "desc": "Para pequenas alterações e melhorias no seu site.",
+      "tl": "48 h por tarefa",
+      "items": [
+        "Revisões ilimitadas",
+        "1 tarefa de cada vez",
+        "Pause ou cancele quando quiser",
+        "Assíncrono via Slack ou email"
+      ]
+    },
+    "stable": {
+      "name": "Stable",
+      "desc": "Atualizações regulares, tarefas de design e desenvolvimento.",
+      "tl": "48 h por tarefa",
+      "items": [
+        "Revisões ilimitadas",
+        "2 tarefas em paralelo",
+        "Pause ou cancele quando quiser",
+        "Assíncrono via Slack ou email"
+      ]
+    },
+    "full": {
+      "name": "Full Web Studio",
+      "desc": "O seu estúdio web completo: melhorias no seu site, trabalho nos seus outros sites, qualquer tipo de tarefa.",
+      "tl": "24–48 h por tarefa",
+      "items": [
+        "Revisões ilimitadas",
+        "3 tarefas em paralelo",
+        "Pause ou cancele quando quiser",
+        "Assíncrono via Slack ou email",
+        "Apoio prioritário"
+      ]
+    }
+  },
+  "sub_line": "Subscrição para qualquer tipo de trabalho",
+  "sub_opt": "Extra opcional",
+  "care_h": {
+    "Basic": "Até 10 h / mês",
+    "Growth": "Até 25 h / mês",
+    "Pro": "Até 48 h / mês"
+  },
+  "studio_q": "Já tem um site?",
+  "studio_t": "O seu próprio estúdio web desde {price}.",
+  "studio_cta": "Escolher plano",
+  "studio_msg": "Olá NOOMO, já tenho um site e tenho interesse na subscrição do estúdio web.",
+  "inst_line": "ou 3 × {price}/mês",
+  "f_pay": "Pagamento (opcional)",
+  "pay": {
+    "full": "Pagamento único",
+    "inst": "Em prestações (até 3 meses)"
+  },
+  "cta_services": "Ver serviços",
+  "cta_studio": "O seu próprio estúdio web desde 99 €/mês",
+  "svc_note": "Preço fixo. Pague de uma vez ou em até 3 pagamentos mensais.",
+  "sb_hrs": "Até {h} horas por mês",
+  "b2b_cta2": "Escolher Full Web Studio",
+  "loc_h": "As nossas localizações",
+  "loc_line": "Sede em Aarhus, Dinamarca · Equipas na Alemanha, em Portugal, em Tenerife (Espanha) e na Ucrânia",
+  "locs": [
+    {
+      "n": "Dinamarca",
+      "c": "Aarhus",
+      "hq": true
+    },
+    {
+      "n": "Alemanha"
+    },
+    {
+      "n": "Portugal"
+    },
+    {
+      "n": "Tenerife",
+      "c": "Espanha"
+    },
+    {
+      "n": "Ucrânia"
+    }
+  ],
+  "cases": {
+    "Mintra": {
+      "sub": "Alívio psicológico rápido e recuperação mental diária",
+      "desc": "Uma app diária de 5–10 minutos para recuperação mental: alívio da ansiedade, registo do sono, afirmações e exercícios de respiração, construída em torno da funcionalidade Brain Dump."
+    },
+    "Poshuk": {
+      "sub": "Apoio remoto e rápido na procura de pessoas desaparecidas na Ucrânia",
+      "desc": "Um fluxo guiado em 3 passos que gera pedidos prontos a enviar e um cartão de busca com QR que qualquer pessoa pode ler e responder."
+    },
+    "Gym App": {
+      "sub": "Treinador de fitness com IA e plataforma de treino personalizado",
+      "desc": "Uma plataforma de fitness para iOS com estética escura, criada de raiz. A IA cria planos de treino personalizados de 14 dias, adaptados ao objetivo e ao nível de cada utilizador."
+    },
+    "iFranko": {
+      "sub": "Redesign de uma loja online Apple",
+      "desc": "Um redesign completo da loja iFranko com um sistema escuro centrado no produto, navegação por categorias sempre visível e páginas de produto que começam pelas imagens e pelas características principais."
+    },
+    "Swiss Insurance": {
+      "desc": "Uma interface com IA, rápida e intuitiva, que transformou lógica antiga complexa e formulários de vários passos num fluxo claro de 2 minutos, sem perder conformidade."
+    },
+    "Interactive Social Game Up": {
+      "desc": "Onboarding rápido e mecânicas sociais claras que levam os jogadores a um jogo ao vivo em segundos."
+    },
+    "Community App & Site for African Repatriates": {
+      "head": "App e site de comunidade para africanos que regressam a casa",
+      "desc": "Uma plataforma de comunidade que junta encontros, amizade e networking profissional num só ecossistema, com um único perfil para os três objetivos."
+    },
+    "Sefer": {
+      "sub": "Comunidade musical para descobrir talento e colaborar",
+      "desc": "Uma comunidade musical construída em torno de um perfil público de artista que funciona como portefólio real: faixas, créditos, estilo e disponibilidade num só lugar."
+    },
+    "NxtShop": {
+      "sub": "App de beleza com prova em AR",
+      "desc": "Uma app de compras de beleza com prova em AR: os utilizadores testam maquilhagem no próprio rosto, em tempo real, antes de comprar."
+    },
+    "DPlab": {
+      "sub": "Redesign do site de uma agência digital, Vilnius",
+      "desc": "Redesign do site de uma agência digital em Vilnius: design, desenvolvimento web, marketing e SEO."
+    },
+    "Defend & Carry": {
+      "sub": "Loja online de equipamento tático e ótica",
+      "desc": "Uma loja online de ótica desportiva, equipamento tático e militar, vestuário de caça e óculos."
+    },
+    "AGM Global Vision": {
+      "sub": "Plataforma de e-commerce para equipamento de defesa",
+      "desc": "Uma plataforma de e-commerce para um fornecedor norte-americano de câmaras térmicas, visão noturna e equipamento de defesa."
+    },
+    "Unifood": {
+      "sub": "Redesign do site unifood.dk",
+      "desc": "Um redesign centrado no catálogo para a Unifood Import A/S, um importador grossista dinamarquês com mais de 1.400 produtos. O cliente encontra um produto em dois cliques e envia a encomenda para levantamento."
+    },
+    "Kortical": {
+      "sub": "Redesign do site",
+      "desc": "Redesenhámos a página principal de AI Agents para desktop e mobile, o menu mobile, a página 404 e um design system partilhado."
+    },
+    "Laurie Handlers": {
+      "sub": "Redesign do site de uma oradora e autora sobre intimidade",
+      "desc": "Um redesign escuro e cinematográfico do site de uma oradora internacional e autora de bestsellers sobre intimidade e relações."
+    },
+    "Subflow": {
+      "sub": "App de subscrições para criadores",
+      "desc": "Uma plataforma mobile onde os criadores vendem subscrições dos seus conteúdos, cursos e comunidades."
+    },
+    "Georg Jensen": {
+      "sub": "Conceito de loja mobile",
+      "desc": "Um conceito pessoal de loja mobile da Georg Jensen, construído em torno do ouro de 18 quilates feito à mão e de diamantes certificados e sustentáveis."
+    },
+    "Ayvens": {
+      "sub": "Conceito de página de carro usado",
+      "desc": "Um conceito de página de produto para carros usados da Ayvens que reúne toda a compra num único scroll tranquilo."
+    }
+  },
+  "svc_more": "Ver detalhes →",
+  "audit_b": [
+    "Análise de UX, velocidade e SEO",
+    "Breve auditoria escrita",
+    "Proposta a preço fixo"
+  ]
+}

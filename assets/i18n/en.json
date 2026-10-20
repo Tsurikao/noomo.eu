@@ -1,0 +1,554 @@
+{
+  "mc_eb": "Write to us",
+  "mc_hint": "Opens with the subject and message filled in",
+  "mc_app": "Mail app",
+  "mc_copy": "Copy email",
+  "mc_subj": "Subject",
+  "su_p": "Project inquiry: something like {name}",
+  "bo_p": "Hi NOOMO, I'd like a project similar to {name}. About my business: ",
+  "su_y": "New project inquiry ({cat})",
+  "bo_y": "Hi NOOMO, I'd like to discuss a new {cat} project. About my business: ",
+  "su_g": "Inquiry from noomo.dk",
+  "your_project": "Your project",
+  "your_sub": "Let's build it together",
+  "nav_work": "Work",
+  "nav_services": "Services",
+  "pkg": "Subscription",
+  "nav_about": "About",
+  "nav_contact": "Contact",
+  "nav_book": "Free consultation",
+  "cursor_more": "See more",
+  "hero_eb": "Digital studio for B2B · Europe",
+  "hero_eb2": "Shopify · Corporate sites · MVP apps",
+  "hero_1": "Online stores.",
+  "hero_2": "Websites & landing pages.",
+  "hero_3": "Apps.",
+  "hero_tag": "Shipped on time, on a fixed price.",
+  "cta_free": "Book a free consultation",
+  "why1_h": "Fixed-price packages",
+  "why1_t": "You know the full cost before we start, no extras.",
+  "why2_h": "Your own web studio, by subscription",
+  "why2_t": "One monthly fee for site updates and small tasks.",
+  "why3_h": "Pay in installments",
+  "why3_t": "Split the project cost into 3 monthly payments.",
+  "why4_h": "Launch in weeks, not months",
+  "why4_t": "Clear timelines, and your new site goes live fast.",
+  "work_h": "Selected work",
+  "work_eb": "Live sites, apps and case studies",
+  "live_website": "Live website",
+  "case_study": "Case study",
+  "view_proto": "View prototype ↗",
+  "want_like": "I want something like this",
+  "live_projects": "Live projects",
+  "svc_h": "What we do",
+  "svc_eb": "Three services and a free audit. Fixed scope, fixed price, support after launch.",
+  "excl_vat": "excl. VAT",
+  "view_details_arrow": "View details ↗",
+  "audit_badge": "Bonus · Free",
+  "audit_h": "Free consultation & website audit",
+  "audit_t": "A 30-minute session with a senior designer. We review your current website or store and give you a short written audit: UX, speed and SEO quick wins, plus a recommended next step and fixed-price estimate.",
+  "free": "€0",
+  "min30": "30 minutes",
+  "audit_cta": "Get a free audit",
+  "pkg_eb": "Prices in EUR, excl. VAT. Every project starts with a free consultation and a fixed-price proposal.",
+  "most_popular": "Most popular",
+  "sub_title": "Your web studio",
+  "total": "Total",
+  "timeline": "Timeline",
+  "get_quote": "Get a quote",
+  "view_details": "View details",
+  "sub_q": "What's Your web studio?",
+  "sub_t": "One monthly subscription for any kind of work: updates, new pages and landing pages, banners and campaign graphics, design changes, SEO, product uploads and priority help. Minimum 3 months.",
+  "about_h": "About NOOMO",
+  "about_eb": "The studio",
+  "stat1": "Specialists",
+  "stat2": "Years in digital design",
+  "stat3": "Fixed scope, fixed price",
+  "mission_eb": "Our mission",
+  "contact_h": "Let's talk about your project",
+  "selected": "Selected",
+  "f_service": "Service",
+  "f_sub": "Subscription",
+  "f_budget": "Budget range (EUR, excl. VAT)",
+  "f_message": "Message",
+  "sent_eb": "Request sent",
+  "sent_msg": "Thanks, we'll reply within 24 hours.",
+  "send_another": "Send another request",
+  "f_time": "Preferred time",
+  "slot_err": "Please pick a time slot.",
+  "f_topic": "Topic (optional)",
+  "call_eb": "Call requested",
+  "call_another": "Request another call",
+  "footer_copy": "© 2026 NOOMO",
+  "close_x": "Close ✕",
+  "who": "Who it's for",
+  "included": "What's included",
+  "how": "How it works",
+  "addons": "Optional add-ons",
+  "related": "Related work",
+  "min3": "Minimum 3 months",
+  "popup_quote": "Get a quote for this service",
+  "close_esc": "Close · Esc",
+  "like_eb": "I want something like",
+  "send_req": "Send a request",
+  "back_work": "← Back to work",
+  "about_body": "NOOMO is a design-led digital studio headquartered in Aarhus, Denmark, with teams in Germany, Portugal, Tenerife (Spain) and Ukraine. We combine 15+ years of UI/UX and web design experience with an AI-augmented workflow, so you get senior-quality design and development, delivered faster and at a fixed price. We work with retailers, service companies and startups across Europe.",
+  "mission": "We make professional digital products accessible to growing businesses: clear, fast and built to sell.",
+  "mission_acc": 6,
+  "mission2": "No bloated agency process. No templates passed off as custom work. Just a focused team that ships.",
+  "contact_body": "Tell us what you need. The first consultation is free, and you get a clear proposal with a fixed price within 48 hours.",
+  "ph_msg": "Tell us what you need",
+  "ph_topic": "What would you like to talk about?",
+  "err_pre": "The request didn't go through. Please try again, or email us at",
+  "svc_word": "Service",
+  "case_want": "Want a project like",
+  "aria_top": "NOOMO — back to top",
+  "aria_menu": "Menu",
+  "aria_why": "Why NOOMO",
+  "aria_filter": "Filter work by service",
+  "aria_sub": "Your web studio",
+  "aria_contact_opts": "Contact options",
+  "aria_remove": "Remove selection",
+  "aria_close": "Close",
+  "aria_back": "Back to work",
+  "lang_aria": "Language",
+  "on_request": "Priced on request",
+  "cta_live": "Visit live site ↗",
+  "cta_play": "View on Google Play ↗",
+  "aria_view_details": " — view details",
+  "aria_open_case": "Open case study: ",
+  "new_tab": " (opens in new tab)",
+  "no_fee": "No monthly fee",
+  "sub_fmt": "Your web studio: {name}",
+  "tab_form": "Send a request",
+  "tab_call": "Request a call",
+  "submit": "Send request",
+  "sending": "Sending…",
+  "call_btn": "Request a call",
+  "call_msg": "Thanks! We'll call you on {day} between {from} and {to}.",
+  "like_msg": "I'd like something similar to {name}.",
+  "f_day": "Preferred day",
+  "day_ph": "Pick a date",
+  "err_day": "Please pick a weekday (Mon–Fri).",
+  "prev_month": "Previous month",
+  "next_month": "Next month",
+  "cat": {
+    "web": "Corporate websites & landing pages",
+    "ecom": "E-commerce",
+    "apps": "MVP & apps"
+  },
+  "blk": {
+    "challenge": "The challenge",
+    "solution": "What we designed",
+    "thinking": "Design thinking",
+    "impact": "Impact",
+    "role": "Our role",
+    "note": "AI-augmented workflow"
+  },
+  "meta": {},
+  "store": {},
+  "sub_names": {
+    "Not included": "No subscription",
+    "Basic": "Start",
+    "Growth": "Stable",
+    "Pro": "Full Web Studio"
+  },
+  "plural": [
+    "project",
+    "projects"
+  ],
+  "ct": {
+    "Email": "Email",
+    "Phone": "Phone"
+  },
+  "svcOpts": {
+    "ecom": "E-commerce",
+    "web": "Corporate websites & landing pages",
+    "apps": "MVP & app",
+    "audit": "Free consultation & audit",
+    "unsure": "Not sure"
+  },
+  "f": {
+    "name": "Name",
+    "name_ph": "Your name",
+    "name_err": "Please add your name.",
+    "company": "Company",
+    "company_ph": "Company name",
+    "email": "Email",
+    "email_ph": "name@company.com",
+    "email_err": "Please add a valid email.",
+    "phone_opt": "Phone (optional)",
+    "phone": "Phone",
+    "phone_err": "Please add a phone number.",
+    "email_opt": "Email (optional)",
+    "email_err2": "Please check the email address."
+  },
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "wd": [
+    "Mo",
+    "Tu",
+    "We",
+    "Th",
+    "Fr",
+    "Sa",
+    "Su"
+  ],
+  "care": {
+    "Basic": [
+      "Up to 10 work hours per month",
+      "Small edits and improvements",
+      "Text, image and design tweaks",
+      "Async via Slack or email"
+    ],
+    "Growth": [
+      "Up to 25 work hours per month",
+      "Everything in Start",
+      "Regular updates",
+      "Design and development tasks",
+      "Tasks in parallel"
+    ],
+    "Pro": [
+      "Up to 48 work hours per month",
+      "Everything in Stable",
+      "Work on your other websites",
+      "Any type of task",
+      "Priority support"
+    ]
+  },
+  "svc": {
+    "ecom": {
+      "title": "E-commerce",
+      "pkgTitle": "E-commerce Store",
+      "desc": "Online stores and grocery shops on Shopify, with product upload and ongoing support.",
+      "priceSub": "Excl. VAT",
+      "timeline": "4–6 weeks",
+      "who": "Retailers, grocery and specialty shops that want to sell online or move off a slow platform. Best when you have a product range ready and need a store your team can run day to day.",
+      "pkgItems": [
+        "Shopify store setup and custom theme design",
+        "Up to 50 products uploaded",
+        "Payments (card, Apple Pay, Google Pay)",
+        "Shipping and EU VAT settings",
+        "Mobile-first design",
+        "Basic SEO and analytics",
+        "Training session"
+      ],
+      "includes": [
+        "Shopify store setup and custom theme design",
+        "Up to 50 products uploaded",
+        "Payments (card, Apple Pay, Google Pay)",
+        "Shipping and EU VAT settings",
+        "Mobile-first design",
+        "Basic SEO",
+        "Analytics",
+        "Training session"
+      ],
+      "steps": [
+        [
+          "Discovery",
+          "We map your range, payments, shipping and VAT setup."
+        ],
+        [
+          "Design",
+          "A custom Shopify theme, designed mobile-first."
+        ],
+        [
+          "Build",
+          "Store setup, product upload, payments and analytics."
+        ],
+        [
+          "Launch & support",
+          "Training, go-live and optional Your web studio subscription."
+        ]
+      ],
+      "addons": [
+        "Extra 50 products",
+        "Multilingual store",
+        "Integrations (ERP, POS, accounting)",
+        "Product photography / AI visuals"
+      ]
+    },
+    "web": {
+      "title": "Corporate websites & landing pages",
+      "pkgTitle": "Corporate Website & Landing Page",
+      "desc": "Company sites, landing pages and campaign sites that explain what you do and bring in leads.",
+      "priceSub": "Excl. VAT · Landing page",
+      "altPre": "Corporate site ",
+      "timeline": "2–4 weeks",
+      "who": "Service companies, B2B suppliers and marketing teams launching a campaign or a new offer. For businesses whose current site no longer explains what they do.",
+      "pkgItems": [
+        "UX structure and copy guidance",
+        "Custom design",
+        "Up to 6 pages (corporate) or 1 long-scroll page (landing)",
+        "CMS",
+        "Contact forms",
+        "SEO setup",
+        "Hosting setup and deploy"
+      ],
+      "steps": [
+        [
+          "Discovery",
+          "Goals, audience and the pages you actually need."
+        ],
+        [
+          "Structure & design",
+          "Sitemap, copy guidance and a custom design."
+        ],
+        [
+          "Build",
+          "CMS, forms and SEO setup, tested on every screen."
+        ],
+        [
+          "Launch & support",
+          "Hosting, deploy and support after launch."
+        ]
+      ],
+      "addons": [
+        "Extra page",
+        "Copywriting",
+        "Multilingual"
+      ]
+    },
+    "apps": {
+      "title": "MVP apps & startups",
+      "pkgTitle": "MVP App & Startup",
+      "desc": "Clickable prototypes and launch-ready MVPs for founders who need to test, pitch or launch.",
+      "priceSub": "Excl. VAT",
+      "timeline": "From 14-day MVP sprint",
+      "who": "Founders and innovation teams who need to test an idea with real users or show investors a working product. Also for companies adding a new digital service.",
+      "pkgItems": [
+        "Discovery workshop",
+        "User flows",
+        "Clickable prototype",
+        "UI design system",
+        "Front-end MVP build",
+        "Investor-ready demo",
+        "Handoff or ongoing development"
+      ],
+      "steps": [
+        [
+          "Discovery workshop",
+          "The problem, the users and the smallest product worth building."
+        ],
+        [
+          "Flows & prototype",
+          "User flows and a clickable prototype to test early."
+        ],
+        [
+          "Design & build",
+          "A UI design system and a front-end MVP build."
+        ],
+        [
+          "Demo & handoff",
+          "An investor-ready demo, then handoff or ongoing development."
+        ]
+      ],
+      "addons": [
+        "Extra user flow",
+        "Backend / database setup",
+        "Ongoing development sprints"
+      ]
+    }
+  },
+  "cases": {},
+  "boot_eb": "Loading studio",
+  "hint_scroll": "Scroll to continue",
+  "hint_hover": "Hover to preview",
+  "hint_click": "Click to open",
+  "boot_steps": [
+    "Initialize grid",
+    "Load brief",
+    "Map structure",
+    "Set type scale",
+    "Draw wireframes",
+    "Snap to grid",
+    "Apply design system",
+    "Wire interactions",
+    "Run QA",
+    "Ship to production"
+  ],
+  "menu": "Menu",
+  "m_welcome": "Welcome to NOOMO",
+  "m_type": "Type",
+  "m_focus": "Focus",
+  "m_loc": "Location",
+  "m_loc_v": "Aarhus, Denmark (HQ)",
+  "theme_aria": "Dark mode",
+  "sb_title": "Subscription",
+  "sb_sub": "Design & dev on demand",
+  "sb_ps": "Per month · excl. VAT · pause or cancel anytime",
+  "sb_tl": "48 h per task **",
+  "sb_aria": "Subscription type",
+  "sb_m1": "Solo",
+  "sb_m2": "Team",
+  "sb_solo": [
+    "Unlimited tasks and edits per month",
+    "1 active task at a time",
+    "Each task delivered in 48 hours",
+    "Async communication in Slack or email"
+  ],
+  "sb_team": [
+    "Unlimited tasks and edits per month",
+    "Up to 3 active tasks in parallel",
+    "Designer, developer and project manager",
+    "Async + weekly call with the project manager"
+  ],
+  "sb_n1": "* The next task starts as soon as the current one is delivered.",
+  "sb_n2": "** For most tasks. Larger ones are split into 48-hour steps.",
+  "sb_msg": "Hi NOOMO, I am interested in the {plan} subscription.",
+  "sb_msg_pk": "Hi NOOMO, I am interested in the {plan} service.",
+  "tiers": {
+    "start": {
+      "name": "Start",
+      "sub": "Landing page or small site",
+      "tl": "2–3 weeks",
+      "items": [
+        "Up to 3 pages",
+        "Custom design",
+        "CMS and contact form",
+        "Basic SEO"
+      ]
+    },
+    "stable": {
+      "name": "Stable",
+      "sub": "Online store or business site",
+      "tl": "4–6 weeks",
+      "items": [
+        "Shopify store or up to 8 pages",
+        "UX structure and custom design",
+        "Payments, CMS and integrations",
+        "SEO, analytics and 30 days support"
+      ]
+    },
+    "full": {
+      "name": "Full",
+      "sub": "App, MVP or large platform",
+      "tl": "From 6 weeks",
+      "items": [
+        "Discovery workshop and prototype",
+        "UI design system",
+        "Front-end build and handoff",
+        "60 days support"
+      ]
+    }
+  },
+  "sb_slots": "Tasks at a time",
+  "sb_d1": "One designer-developer works on one task at a time. Send as many as you like; they are done one after another.",
+  "sb_d2": "A team works on up to 3 tasks in parallel, with a project manager keeping the queue and priorities.",
+  "start_from": "Starting price",
+  "b2b_h": "For business & agencies",
+  "b2b_p": "For businesses and agencies on an ongoing basis: choose the Full Web Studio (€290/month, up to 48 hours), or let’s agree custom terms for larger volumes.",
+  "b2b_items": [
+    "White-label for agencies",
+    "Dedicated team for your product",
+    "NDA, contract and monthly invoicing",
+    "Shared Slack, Jira or Linear",
+    "Design system and code handoff",
+    "Priority SLA and fixed contact person"
+  ],
+  "b2b_pl": "Recommended plan",
+  "b2b_price": "Full Web Studio · €290/month",
+  "b2b_ps": "Up to 48 hours · or custom terms",
+  "b2b_cta": "Discuss collaboration",
+  "b2b_msg": "Hi NOOMO, we are a company/agency and want to discuss an ongoing collaboration.",
+  "subtiers": {
+    "start": {
+      "name": "Start",
+      "desc": "For small edits and minor improvements to your site.",
+      "tl": "48 h per task",
+      "items": [
+        "Unlimited revisions",
+        "1 task at a time",
+        "Pause or cancel anytime",
+        "Async via Slack or email"
+      ]
+    },
+    "stable": {
+      "name": "Stable",
+      "desc": "Regular updates, design and development tasks.",
+      "tl": "48 h per task",
+      "items": [
+        "Unlimited revisions",
+        "2 tasks in parallel",
+        "Pause or cancel anytime",
+        "Async via Slack or email"
+      ]
+    },
+    "full": {
+      "name": "Full Web Studio",
+      "desc": "Your full web studio: improvements to your site, work on your other websites, any type of task.",
+      "tl": "24–48 h per task",
+      "items": [
+        "Unlimited revisions",
+        "3 tasks in parallel",
+        "Pause or cancel anytime",
+        "Async via Slack or email",
+        "Priority support"
+      ]
+    }
+  },
+  "hero_trust": "Fixed prices · Pay in up to 3 installments · Your own web studio from €99/month",
+  "sub_line": "Subscription for any kind of work",
+  "sub_opt": "Optional add-on",
+  "care_h": {
+    "Basic": "Up to 10 h / month",
+    "Growth": "Up to 25 h / month",
+    "Pro": "Up to 48 h / month"
+  },
+  "studio_q": "Already have a website?",
+  "studio_t": "Get your own web studio from {price}.",
+  "studio_cta": "Choose a plan",
+  "studio_msg": "Hi NOOMO, I already have a website and I'm interested in Your web studio subscription.",
+  "inst_line": "or 3 × {price}/month",
+  "inst_note": "Fixed price. Pay at once or in up to 3 monthly payments.",
+  "f_pay": "Payment (optional)",
+  "pay": {
+    "full": "Full payment",
+    "inst": "Installments (up to 3 months)"
+  },
+  "cta_services": "See services",
+  "cta_studio": "Your own web studio from €99/month",
+  "svc_note": "Fixed price. Pay at once or in up to 3 monthly payments.",
+  "sb_hrs": "Up to {h} hours per month",
+  "b2b_cta2": "Choose Full Web Studio",
+  "loc_h": "Our locations",
+  "loc_line": "Headquarters in Aarhus, Denmark · Teams in Germany, Portugal, Tenerife (Spain) and Ukraine",
+  "locs": [
+    {
+      "n": "Denmark",
+      "c": "Aarhus",
+      "hq": true
+    },
+    {
+      "n": "Germany"
+    },
+    {
+      "n": "Portugal"
+    },
+    {
+      "n": "Tenerife",
+      "c": "Spain"
+    },
+    {
+      "n": "Ukraine"
+    }
+  ],
+  "svc_more": "View details →",
+  "audit_b": [
+    "UX, speed and SEO review",
+    "Short written audit",
+    "Fixed-price estimate"
+  ]
+}

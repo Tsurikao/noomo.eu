@@ -1,0 +1,575 @@
+{
+  "mc_eb": "Schreiben Sie uns",
+  "mc_hint": "Öffnet sich mit vorausgefülltem Betreff und Text",
+  "mc_app": "Mail-App",
+  "mc_copy": "E-Mail kopieren",
+  "mc_subj": "Betreff",
+  "su_p": "Projektanfrage: etwas wie {name}",
+  "bo_p": "Hallo NOOMO, ich hätte gern ein Projekt ähnlich wie {name}. Zu meinem Unternehmen: ",
+  "su_y": "Neue Projektanfrage ({cat})",
+  "bo_y": "Hallo NOOMO, ich möchte ein neues Projekt im Bereich {cat} besprechen. Zu meinem Unternehmen: ",
+  "su_g": "Anfrage über noomo.dk",
+  "your_project": "Ihr Projekt",
+  "your_sub": "Lassen Sie es uns gemeinsam umsetzen",
+  "nav_work": "Projekte",
+  "nav_services": "Leistungen",
+  "pkg": "Abonnement",
+  "nav_about": "Über uns",
+  "nav_contact": "Kontakt",
+  "nav_book": "Kostenlose Beratung",
+  "cursor_more": "Mehr sehen",
+  "hero_eb": "Digitalstudio für B2B · Europa",
+  "hero_1": "Onlineshops.",
+  "hero_2": "Websites & Landingpages.",
+  "hero_3": "Apps.",
+  "hero_tag": "Pünktlich geliefert, zum Festpreis.",
+  "why1_h": "Pakete zum Festpreis",
+  "why1_t": "Sie kennen die Gesamtkosten vor dem Start, ohne Aufpreise.",
+  "why2_h": "Ihr eigenes Webstudio im Abonnement",
+  "why2_t": "Eine Monatsgebühr für Updates und kleinere Aufgaben.",
+  "why3_h": "Zahlung in Raten",
+  "why3_t": "Teilen Sie die Projektkosten in 3 Monatsraten auf.",
+  "why4_h": "Live in Wochen, nicht Monaten",
+  "why4_t": "Klare Zeitpläne, und Ihre neue Website geht schnell live.",
+  "work_h": "Ausgewählte Projekte",
+  "work_eb": "Live-Websites, Apps und Fallstudien",
+  "live_website": "Live-Website",
+  "case_study": "Fallstudie",
+  "view_proto": "Prototyp ansehen ↗",
+  "want_like": "So etwas möchte ich auch",
+  "live_projects": "Live-Projekte",
+  "svc_h": "Leistungen",
+  "svc_eb": "Drei Leistungen und ein kostenloses Audit. Fester Umfang, Festpreis, Support nach dem Launch.",
+  "excl_vat": "zzgl. MwSt.",
+  "view_details_arrow": "Details ansehen ↗",
+  "audit_badge": "Bonus · Kostenlos",
+  "audit_h": "Kostenlose Beratung & Website-Audit",
+  "audit_t": "Ein 30-minütiges Gespräch mit einem Senior Designer. Wir prüfen Ihre aktuelle Website oder Ihren Shop und erstellen ein kurzes schriftliches Audit: schnelle Verbesserungen bei UX, Geschwindigkeit und SEO, dazu ein empfohlener nächster Schritt und ein Festpreisangebot.",
+  "free": "0 €",
+  "min30": "30 Minuten",
+  "audit_cta": "Kostenloses Audit anfragen",
+  "pkg_eb": "Preise in EUR, zzgl. MwSt. Jedes Projekt beginnt mit einer kostenlosen Beratung und einem Festpreisangebot.",
+  "most_popular": "Am beliebtesten",
+  "sub_title": "Ihr Webstudio",
+  "timeline": "Zeitrahmen",
+  "get_quote": "Angebot anfordern",
+  "sub_t": "Ein monatliches Abonnement für alle Arten von Aufgaben: Updates, neue Seiten und Landingpages, Banner und Kampagnengrafiken, Designänderungen, SEO, Produktpflege und bevorzugter Support. Mindestlaufzeit 3 Monate.",
+  "about_h": "Über NOOMO",
+  "about_eb": "Das Studio",
+  "stat1": "Spezialisten",
+  "stat2": "Jahre im Digitaldesign",
+  "stat3": "Fester Umfang, Festpreis",
+  "mission_eb": "Unsere Mission",
+  "contact_h": "Sprechen wir über Ihr Projekt",
+  "selected": "Ausgewählt",
+  "f_service": "Leistung",
+  "f_sub": "Abonnement",
+  "f_budget": "Budgetrahmen (EUR, zzgl. MwSt.)",
+  "f_message": "Nachricht",
+  "sent_eb": "Anfrage gesendet",
+  "sent_msg": "Vielen Dank, wir melden uns innerhalb von 24 Stunden.",
+  "send_another": "Weitere Anfrage senden",
+  "f_time": "Bevorzugte Uhrzeit",
+  "slot_err": "Bitte wählen Sie ein Zeitfenster.",
+  "f_topic": "Thema (optional)",
+  "call_eb": "Rückruf angefragt",
+  "call_another": "Weiteren Rückruf anfragen",
+  "footer_copy": "© 2026 NOOMO",
+  "close_x": "Schließen ✕",
+  "who": "Für wen",
+  "included": "Leistungsumfang",
+  "how": "So läuft es ab",
+  "addons": "Optionale Extras",
+  "related": "Ähnliche Projekte",
+  "popup_quote": "Angebot für diese Leistung anfragen",
+  "close_esc": "Schließen · Esc",
+  "like_eb": "Ich möchte etwas wie",
+  "send_req": "Anfrage senden",
+  "back_work": "← Zurück zu den Projekten",
+  "about_body": "NOOMO ist ein designorientiertes Digitalstudio mit Hauptsitz in Aarhus, Dänemark, und Teams in Deutschland, Portugal, auf Teneriffa (Spanien) und in der Ukraine. Wir verbinden über 15 Jahre Erfahrung in UI/UX und Webdesign mit einem KI-gestützten Workflow. So erhalten Sie Design und Entwicklung auf Senior-Niveau, schneller und zum Festpreis. Wir arbeiten mit Händlern, Dienstleistern und Startups in ganz Europa.",
+  "mission": "Wir machen professionelle digitale Produkte für wachsende Unternehmen zugänglich: klar, schnell und gebaut, um zu verkaufen.",
+  "mission_acc": 5,
+  "mission2": "Kein aufgeblähter Agenturprozess. Keine Templates, die als Maßarbeit verkauft werden. Nur ein fokussiertes Team, das liefert.",
+  "contact_body": "Sagen Sie uns, was Sie brauchen. Die erste Beratung ist kostenlos, und innerhalb von 48 Stunden erhalten Sie ein klares Angebot zum Festpreis.",
+  "ph_msg": "Beschreiben Sie kurz, was Sie brauchen",
+  "ph_topic": "Worüber möchten Sie sprechen?",
+  "err_pre": "Die Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder schreiben Sie uns an",
+  "svc_word": "Leistung",
+  "case_want": "Sie möchten ein Projekt wie",
+  "aria_top": "NOOMO — nach oben",
+  "aria_menu": "Menü",
+  "aria_why": "Warum NOOMO",
+  "aria_filter": "Projekte nach Leistung filtern",
+  "aria_sub": "Ihr Webstudio",
+  "aria_contact_opts": "Kontaktmöglichkeiten",
+  "aria_remove": "Auswahl entfernen",
+  "aria_close": "Schließen",
+  "aria_back": "Zurück zu den Projekten",
+  "lang_aria": "Sprache",
+  "on_request": "Preis auf Anfrage",
+  "cta_live": "Live-Website ansehen ↗",
+  "cta_play": "Bei Google Play ansehen ↗",
+  "aria_view_details": " — Details ansehen",
+  "aria_open_case": "Fallstudie öffnen: ",
+  "new_tab": " (öffnet in neuem Tab)",
+  "no_fee": "Keine Monatsgebühr",
+  "sub_fmt": "Ihr Webstudio: {name}",
+  "tab_form": "Anfrage senden",
+  "tab_call": "Rückruf anfragen",
+  "submit": "Anfrage senden",
+  "sending": "Wird gesendet…",
+  "call_btn": "Rückruf anfragen",
+  "call_msg": "Vielen Dank! Wir rufen Sie am {day} zwischen {from} und {to} Uhr an.",
+  "like_msg": "Ich hätte gern etwas Ähnliches wie {name}.",
+  "f_day": "Bevorzugter Tag",
+  "day_ph": "Datum wählen",
+  "err_day": "Bitte wählen Sie einen Werktag (Mo–Fr).",
+  "prev_month": "Vorheriger Monat",
+  "next_month": "Nächster Monat",
+  "cat": {
+    "web": "Unternehmenswebsites & Landingpages",
+    "ecom": "E-Commerce",
+    "apps": "MVP & Apps"
+  },
+  "blk": {
+    "challenge": "Die Herausforderung",
+    "solution": "Was wir gestaltet haben",
+    "thinking": "Designansatz",
+    "impact": "Ergebnis",
+    "role": "Unsere Rolle",
+    "note": "KI-gestützter Workflow"
+  },
+  "meta": {
+    "Role": "Rolle",
+    "Year": "Jahr",
+    "Scope": "Umfang",
+    "Platform": "Plattform",
+    "Status": "Status",
+    "Client": "Kunde",
+    "Industry": "Branche",
+    "Duration": "Dauer",
+    "Team": "Team",
+    "Location": "Standort",
+    "Type": "Typ"
+  },
+  "store": {
+    "Visit live site": "Live-Website öffnen",
+    "Open app on Google Play": "App bei Google Play öffnen",
+    "Open interactive prototype": "Interaktiven Prototyp öffnen"
+  },
+  "sub_names": {
+    "Not included": "Kein Abonnement",
+    "Basic": "Start",
+    "Growth": "Stable",
+    "Pro": "Full Web Studio"
+  },
+  "plural": [
+    "Projekt",
+    "Projekte"
+  ],
+  "ct": {
+    "Email": "E-Mail",
+    "Phone": "Telefon"
+  },
+  "svcOpts": {
+    "ecom": "E-Commerce",
+    "web": "Unternehmenswebsites & Landingpages",
+    "apps": "MVP & App",
+    "audit": "Kostenlose Beratung & Audit",
+    "unsure": "Noch unsicher"
+  },
+  "f": {
+    "name": "Name",
+    "name_ph": "Ihr Name",
+    "name_err": "Bitte geben Sie Ihren Namen an.",
+    "company": "Unternehmen",
+    "company_ph": "Name des Unternehmens",
+    "email": "E-Mail",
+    "email_ph": "name@firma.de",
+    "email_err": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+    "phone_opt": "Telefon (optional)",
+    "phone": "Telefon",
+    "phone_err": "Bitte geben Sie eine Telefonnummer an.",
+    "email_opt": "E-Mail (optional)",
+    "email_err2": "Bitte prüfen Sie die E-Mail-Adresse."
+  },
+  "months": [
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember"
+  ],
+  "wd": [
+    "Mo",
+    "Di",
+    "Mi",
+    "Do",
+    "Fr",
+    "Sa",
+    "So"
+  ],
+  "care": {
+    "Basic": [
+      "Bis zu 10 Arbeitsstunden pro Monat",
+      "Kleine Änderungen und Verbesserungen",
+      "Anpassungen an Texten, Bildern und Design",
+      "Asynchron per Slack oder E-Mail"
+    ],
+    "Growth": [
+      "Bis zu 25 Arbeitsstunden pro Monat",
+      "Alles aus Start",
+      "Regelmäßige Updates",
+      "Design- und Entwicklungsaufgaben",
+      "Parallele Aufgaben"
+    ],
+    "Pro": [
+      "Bis zu 48 Arbeitsstunden pro Monat",
+      "Alles aus Stable",
+      "Arbeit an Ihren weiteren Websites",
+      "Aufgaben jeder Art",
+      "Bevorzugter Support"
+    ]
+  },
+  "svc": {
+    "ecom": {
+      "title": "E-Commerce",
+      "pkgTitle": "Onlineshop",
+      "desc": "Onlineshops und Lebensmittelshops auf Shopify, inklusive Produktpflege und laufendem Support.",
+      "priceSub": "Zzgl. MwSt.",
+      "timeline": "4–6 Wochen",
+      "who": "Händler, Lebensmittel- und Fachgeschäfte, die online verkaufen oder eine langsame Plattform verlassen möchten. Ideal, wenn Ihr Sortiment steht und Sie einen Shop brauchen, den Ihr Team im Alltag selbst führen kann.",
+      "pkgItems": [
+        "Shopify-Einrichtung und individuelles Theme-Design",
+        "Bis zu 50 Produkte eingepflegt",
+        "Zahlungen (Karte, Apple Pay, Google Pay)",
+        "Versand- und EU-MwSt.-Einstellungen",
+        "Mobile-first-Design",
+        "Basis-SEO und Analytics",
+        "Schulung"
+      ],
+      "includes": [
+        "Shopify-Einrichtung und individuelles Theme-Design",
+        "Bis zu 50 Produkte eingepflegt",
+        "Zahlungen (Karte, Apple Pay, Google Pay)",
+        "Versand- und EU-MwSt.-Einstellungen",
+        "Mobile-first-Design",
+        "Basis-SEO",
+        "Analytics",
+        "Schulung"
+      ],
+      "steps": [
+        [
+          "Analyse",
+          "Wir erfassen Sortiment, Zahlungsarten, Versand und MwSt.-Einstellungen."
+        ],
+        [
+          "Design",
+          "Ein individuelles Shopify-Theme, mobile-first gestaltet."
+        ],
+        [
+          "Umsetzung",
+          "Shop-Einrichtung, Produktpflege, Zahlungen und Analytics."
+        ],
+        [
+          "Launch & Support",
+          "Schulung, Go-live und auf Wunsch ein Webstudio-Abonnement."
+        ]
+      ],
+      "addons": [
+        "Weitere 50 Produkte",
+        "Mehrsprachiger Shop",
+        "Integrationen (ERP, Kasse, Buchhaltung)",
+        "Produktfotos / KI-Visuals"
+      ]
+    },
+    "web": {
+      "title": "Unternehmenswebsites & Landingpages",
+      "pkgTitle": "Unternehmenswebsite & Landingpage",
+      "desc": "Unternehmenswebsites, Landingpages und Kampagnenseiten, die klar zeigen, was Sie tun, und Anfragen bringen.",
+      "priceSub": "Zzgl. MwSt. · Landingpage",
+      "altPre": "Unternehmenswebsite ",
+      "timeline": "2–4 Wochen",
+      "who": "Dienstleister, B2B-Zulieferer und Marketingteams, die eine Kampagne oder ein neues Angebot starten. Für Unternehmen, deren aktuelle Website nicht mehr erklärt, was sie tun.",
+      "pkgItems": [
+        "UX-Struktur und Textberatung",
+        "Individuelles Design",
+        "Bis zu 6 Seiten (Unternehmenswebsite) oder 1 Long-Scroll-Seite (Landingpage)",
+        "CMS",
+        "Kontaktformulare",
+        "SEO-Einrichtung",
+        "Hosting-Einrichtung und Veröffentlichung"
+      ],
+      "steps": [
+        [
+          "Analyse",
+          "Ziele, Zielgruppe und die Seiten, die Sie wirklich brauchen."
+        ],
+        [
+          "Struktur & Design",
+          "Sitemap, Textberatung und ein individuelles Design."
+        ],
+        [
+          "Umsetzung",
+          "CMS, Formulare und SEO, auf allen Bildschirmen getestet."
+        ],
+        [
+          "Launch & Support",
+          "Hosting, Veröffentlichung und Support nach dem Launch."
+        ]
+      ],
+      "addons": [
+        "Zusätzliche Seite",
+        "Texterstellung",
+        "Mehrsprachigkeit"
+      ]
+    },
+    "apps": {
+      "title": "MVP-Apps & Startups",
+      "pkgTitle": "MVP-App & Startup",
+      "desc": "Klickbare Prototypen und startklare MVPs für Gründer, die testen, pitchen oder launchen wollen.",
+      "priceSub": "Zzgl. MwSt.",
+      "timeline": "Ab 14-tägigem MVP-Sprint",
+      "who": "Gründer und Innovationsteams, die eine Idee mit echten Nutzern testen oder Investoren ein funktionierendes Produkt zeigen möchten. Auch für Unternehmen, die einen neuen digitalen Service einführen.",
+      "pkgItems": [
+        "Discovery-Workshop",
+        "User Flows",
+        "Klickbarer Prototyp",
+        "UI-Designsystem",
+        "Frontend-Umsetzung des MVP",
+        "Demo für Investoren",
+        "Übergabe oder Weiterentwicklung"
+      ],
+      "steps": [
+        [
+          "Discovery-Workshop",
+          "Das Problem, die Nutzer und das kleinste Produkt, das sich lohnt."
+        ],
+        [
+          "Flows & Prototyp",
+          "User Flows und ein klickbarer Prototyp für frühe Tests."
+        ],
+        [
+          "Design & Umsetzung",
+          "Ein UI-Designsystem und ein Frontend-MVP."
+        ],
+        [
+          "Demo & Übergabe",
+          "Eine investorenreife Demo, danach Übergabe oder Weiterentwicklung."
+        ]
+      ],
+      "addons": [
+        "Zusätzlicher User Flow",
+        "Backend- / Datenbank-Einrichtung",
+        "Laufende Entwicklungssprints"
+      ]
+    }
+  },
+  "boot_eb": "Studio wird geladen",
+  "hint_scroll": "Scrollen Sie weiter",
+  "hint_hover": "Für Vorschau darüberfahren",
+  "hint_click": "Zum Öffnen klicken",
+  "boot_steps": [
+    "Raster initialisieren",
+    "Briefing laden",
+    "Struktur planen",
+    "Typografie festlegen",
+    "Wireframes zeichnen",
+    "Am Raster ausrichten",
+    "Designsystem anwenden",
+    "Interaktionen verknüpfen",
+    "QA durchführen",
+    "Live schalten"
+  ],
+  "menu": "Menü",
+  "m_welcome": "Willkommen bei NOOMO",
+  "m_type": "Typ",
+  "m_focus": "Fokus",
+  "m_loc": "Standort",
+  "m_loc_v": "Aarhus, Dänemark (HQ)",
+  "theme_aria": "Dunkelmodus",
+  "sb_ps": "Pro Monat · zzgl. MwSt. · jederzeit pausieren oder kündigen",
+  "sb_msg": "Hallo NOOMO, ich interessiere mich für das Abonnement {plan}.",
+  "sb_slots": "Aufgaben gleichzeitig",
+  "start_from": "Einstiegspreis",
+  "b2b_h": "Für Unternehmen & Agenturen",
+  "b2b_p": "Für Unternehmen und Agenturen, die dauerhaft zusammenarbeiten möchten: Wählen Sie das Full Web Studio (290 €/Monat, bis zu 48 Stunden) oder wir vereinbaren individuelle Konditionen für größere Volumen.",
+  "b2b_items": [
+    "White-Label für Agenturen",
+    "Festes Team für Ihr Produkt",
+    "NDA, Vertrag und monatliche Abrechnung",
+    "Gemeinsames Slack, Jira oder Linear",
+    "Designsystem und Code-Übergabe",
+    "Priorisierte SLA und fester Ansprechpartner"
+  ],
+  "b2b_pl": "Empfohlener Plan",
+  "b2b_price": "Full Web Studio · 290 €/Monat",
+  "b2b_ps": "Bis zu 48 Stunden · oder individuelle Konditionen",
+  "b2b_cta": "Zusammenarbeit besprechen",
+  "b2b_msg": "Hallo NOOMO, wir sind ein Unternehmen / eine Agentur und möchten eine dauerhafte Zusammenarbeit besprechen.",
+  "subtiers": {
+    "start": {
+      "name": "Start",
+      "desc": "Für kleine Änderungen und Verbesserungen an Ihrer Website.",
+      "tl": "48 Std. pro Aufgabe",
+      "items": [
+        "Unbegrenzte Korrekturen",
+        "1 Aufgabe gleichzeitig",
+        "Jederzeit pausieren oder kündigen",
+        "Asynchron per Slack oder E-Mail"
+      ]
+    },
+    "stable": {
+      "name": "Stable",
+      "desc": "Regelmäßige Updates, Design- und Entwicklungsaufgaben.",
+      "tl": "48 Std. pro Aufgabe",
+      "items": [
+        "Unbegrenzte Korrekturen",
+        "2 Aufgaben parallel",
+        "Jederzeit pausieren oder kündigen",
+        "Asynchron per Slack oder E-Mail"
+      ]
+    },
+    "full": {
+      "name": "Full Web Studio",
+      "desc": "Ihr komplettes Webstudio: Verbesserungen an Ihrer Website, Arbeit an Ihren weiteren Websites, Aufgaben jeder Art.",
+      "tl": "24–48 Std. pro Aufgabe",
+      "items": [
+        "Unbegrenzte Korrekturen",
+        "3 Aufgaben parallel",
+        "Jederzeit pausieren oder kündigen",
+        "Asynchron per Slack oder E-Mail",
+        "Bevorzugter Support"
+      ]
+    }
+  },
+  "sub_line": "Abonnement für Aufgaben jeder Art",
+  "sub_opt": "Optionales Extra",
+  "care_h": {
+    "Basic": "Bis zu 10 Std. / Monat",
+    "Growth": "Bis zu 25 Std. / Monat",
+    "Pro": "Bis zu 48 Std. / Monat"
+  },
+  "studio_q": "Sie haben bereits eine Website?",
+  "studio_t": "Ihr eigenes Webstudio ab {price}.",
+  "studio_cta": "Plan wählen",
+  "studio_msg": "Hallo NOOMO, ich habe bereits eine Website und interessiere mich für ein Webstudio-Abonnement.",
+  "inst_line": "oder 3 × {price}/Monat",
+  "f_pay": "Zahlung (optional)",
+  "pay": {
+    "full": "Einmalzahlung",
+    "inst": "Ratenzahlung (bis zu 3 Monate)"
+  },
+  "cta_services": "Leistungen ansehen",
+  "cta_studio": "Ihr eigenes Webstudio ab 99 €/Monat",
+  "svc_note": "Festpreis. Zahlung auf einmal oder in bis zu 3 Monatsraten.",
+  "sb_hrs": "Bis zu {h} Stunden pro Monat",
+  "b2b_cta2": "Full Web Studio wählen",
+  "loc_h": "Unsere Standorte",
+  "loc_line": "Hauptsitz in Aarhus, Dänemark · Teams in Deutschland, Portugal, auf Teneriffa (Spanien) und in der Ukraine",
+  "locs": [
+    {
+      "n": "Dänemark",
+      "c": "Aarhus",
+      "hq": true
+    },
+    {
+      "n": "Deutschland"
+    },
+    {
+      "n": "Portugal"
+    },
+    {
+      "n": "Teneriffa",
+      "c": "Spanien"
+    },
+    {
+      "n": "Ukraine"
+    }
+  ],
+  "cases": {
+    "Mintra": {
+      "sub": "Schnelle psychische Entlastung und tägliche mentale Erholung",
+      "desc": "Eine tägliche 5–10-Minuten-App für mentale Erholung: Angstlinderung, Schlaftracking, Affirmationen und Atemübungen, aufgebaut rund um die Funktion Brain Dump."
+    },
+    "Poshuk": {
+      "sub": "Schnelle Fernunterstützung bei der Suche nach Vermissten in der Ukraine",
+      "desc": "Ein geführter Ablauf in 3 Schritten, der versandfertige Anfragen und eine QR-Suchkarte erstellt, die jeder scannen und beantworten kann."
+    },
+    "Gym App": {
+      "sub": "KI-Fitnesscoach und Plattform für persönliches Training",
+      "desc": "Eine von Grund auf entwickelte iOS-Fitnessplattform im dunklen Look. Die KI erstellt persönliche 14-Tage-Trainingspläne passend zu Ziel und Fitnesslevel."
+    },
+    "iFranko": {
+      "sub": "Redesign eines Apple-Onlineshops",
+      "desc": "Ein komplettes Redesign des iFranko-Shops mit einem dunklen, produktorientierten System, dauerhafter Kategorienavigation und Produktseiten, die mit Bildern und den wichtigsten Daten beginnen."
+    },
+    "Swiss Insurance": {
+      "desc": "Eine schnelle, intuitive KI-Oberfläche, die komplexe Altsystem-Logik und mehrstufige Formulare in einen klaren 2-Minuten-Ablauf verwandelt, ohne die Compliance zu verlieren."
+    },
+    "Interactive Social Game Up": {
+      "desc": "Schnelles Onboarding und verständliche soziale Mechaniken, die Spieler in Sekunden in ein Live-Spiel bringen."
+    },
+    "Community App & Site for African Repatriates": {
+      "head": "Community-App und Website für afrikanische Rückkehrer",
+      "desc": "Eine Community-Plattform, die Dating, Freundschaft und Business-Networking in einem Ökosystem vereint, mit einem Profil für alle drei Zwecke."
+    },
+    "Sefer": {
+      "sub": "Musik-Community für Talentsuche und Zusammenarbeit",
+      "desc": "Eine Musik-Community rund um ein öffentliches Künstlerprofil, das als echtes Portfolio dient: Tracks, Credits, Stil und Verfügbarkeit an einem Ort."
+    },
+    "NxtShop": {
+      "sub": "Beauty-App mit AR-Anprobe",
+      "desc": "Eine Beauty-Shopping-App mit AR-Anprobe: Nutzer testen Make-up in Echtzeit am eigenen Gesicht, bevor sie kaufen."
+    },
+    "DPlab": {
+      "sub": "Redesign der Website einer Digitalagentur, Vilnius",
+      "desc": "Redesign der Website einer Digitalagentur in Vilnius: Design, Webentwicklung, Marketing und SEO."
+    },
+    "Defend & Carry": {
+      "sub": "Onlineshop für taktische Ausrüstung und Optik",
+      "desc": "Ein Onlineshop für Sportoptik, taktische und militärische Ausrüstung, Jagdbekleidung und Brillen."
+    },
+    "AGM Global Vision": {
+      "sub": "E-Commerce-Plattform für Verteidigungstechnik",
+      "desc": "Eine E-Commerce-Plattform für einen US-Anbieter von Wärmebild- und Nachtsichtgeräten sowie Verteidigungstechnik."
+    },
+    "Unifood": {
+      "sub": "Redesign der Website unifood.dk",
+      "desc": "Ein katalogorientiertes Redesign für Unifood Import A/S, einen dänischen Lebensmittelgroßhändler mit über 1.400 Produkten. Kunden finden ein Produkt mit zwei Klicks und senden ihre Abholbestellung."
+    },
+    "Kortical": {
+      "sub": "Website-Redesign",
+      "desc": "Wir haben die Startseite für AI Agents auf Desktop und Mobil neu gestaltet, dazu das mobile Menü, die 404-Seite und ein gemeinsames Designsystem."
+    },
+    "Laurie Handlers": {
+      "sub": "Website-Redesign für eine Rednerin und Autorin zum Thema Intimität",
+      "desc": "Ein dunkles, filmisches Redesign der Website einer internationalen Rednerin und Bestsellerautorin zu Intimität und Beziehungen."
+    },
+    "Subflow": {
+      "sub": "Abo-App für Creator",
+      "desc": "Eine mobile Plattform, auf der Creator Abonnements für ihre Inhalte, Kurse und Communitys verkaufen."
+    },
+    "Georg Jensen": {
+      "sub": "Konzept für einen mobilen Shop",
+      "desc": "Ein freies Konzept für einen mobilen Georg-Jensen-Shop, aufgebaut rund um handgefertigtes 18-Karat-Gold und zertifizierte, nachhaltige Diamanten."
+    },
+    "Ayvens": {
+      "sub": "Konzept für eine Gebrauchtwagen-Seite",
+      "desc": "Ein Produktseiten-Konzept für Ayvens-Gebrauchtwagen, das den gesamten Kauf in einem ruhigen Scroll abbildet."
+    }
+  },
+  "svc_more": "Details ansehen →",
+  "audit_b": [
+    "Prüfung von UX, Tempo und SEO",
+    "Kurzes schriftliches Audit",
+    "Festpreisangebot"
+  ]
+}
